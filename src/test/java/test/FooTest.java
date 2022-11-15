@@ -31,6 +31,7 @@ public class FooTest {
 
   @Test
   public void testIt() throws Exception {
+    Keycloak kc = getKeycloak();
   }
 
 }
